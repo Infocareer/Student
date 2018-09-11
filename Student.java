@@ -57,7 +57,7 @@ public class Student {
 	}
 	static void varifyStatus(){
 
-			if(b>=35 && c>=35 && d>=35){
+			if(b>=35 && c>=35 && d>=40){
 				System.out.println(a +" is pass");
 				
 			}else{
